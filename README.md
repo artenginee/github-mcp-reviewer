@@ -152,3 +152,6 @@ Claude는 내부적으로 다음 기준으로 코드를 평가합니다 (공식 
 *Powered by Claude + GitHub MCP Server*
 *버그는 제 잘못이 아니라 여러분 코드 잘못입니다*
 *이 README는 AI가 작성했으며 AI에 의해 리뷰받았습니다*
+
+
+wow
